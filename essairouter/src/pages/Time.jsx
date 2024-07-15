@@ -15,7 +15,8 @@ export default function Time() {
         <h1>Bonjour</h1>
         <p className="horloge">
           Nous sommes le&nbsp;
-          <span>{currentDate.toLocaleDateString()}</span> et il est{" "}
+          <span>{currentDate.toLocaleDateString()}</span> 
+          et il est{" "}
           <span>{currentDate.toLocaleTimeString()}</span>
         </p>
         <img src="img/horloge.jpg" alt="Horloge" />
