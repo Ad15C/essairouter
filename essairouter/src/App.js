@@ -1,10 +1,10 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Time from './pages/Time';
-import { Link } from 'react-router-dom';
+
 
 
 function App() {
