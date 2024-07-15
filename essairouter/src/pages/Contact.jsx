@@ -7,6 +7,7 @@ const Contact = () => {
             <p>Adresse</p>
             <p>Téléphone</p>
             <p>Mail</p>
+            <p>Réseaux Sociaux:</p>
         </main>
     );
 }
